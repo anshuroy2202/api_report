@@ -1,0 +1,6 @@
+# # Example repository file containing fake secrets for testing
+
+# DATABASE_PASSWORD = "SuperSecretPass123!"
+# AWS_ACCESS_KEY_ID = "AKIA1234567890ABCDEF"
+# AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+# SLACK_TOKEN = "TESTSLACKTOKEN1234567890"
